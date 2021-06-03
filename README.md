@@ -15,6 +15,6 @@ create-react-app is used to build this app.
 * start the app by command `yarn start`.
 
 ## Screen
-![image](https://user-images.githubusercontent.com/26248649/119405835-2f78aa80-bce2-11eb-863c-5a91e79909ee.png)
+![image](https://user-images.githubusercontent.com/22505966/120714092-0bc41a00-c4c3-11eb-9648-c23127841080.png)
 
 
